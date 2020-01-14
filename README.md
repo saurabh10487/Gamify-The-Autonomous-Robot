@@ -1,7 +1,7 @@
 # Gamify The Robotics World
 ## About The Project
 
-In my project, I am gamifying the robotics world. In this i am combining the robotics world with the gaming world. I build the following prototypes:
+In my project, I am gamifying the robotics world. In this, i am combining the robotics world with the gaming world. To achieve this, i build the following prototypes:
 
 ### Gamify The Real Mobile Tank
 Often a human life is at risk when driver is participating in a racing sport or even driving on a normal road. This solution will enable a driver to control a real mobile tank or any other vehicle in a remote way, through a game. That is driver will play a game that in turn will move the real vehicle and hence participate in the race sport / normal driving. Driver can also keep the vehicle in autonomous mode when he/she is tired or taking a break.
@@ -11,7 +11,7 @@ Robots are the future. Before letting a robot control human, let us see how we c
  * Read Third Demonstration here - https://www.delhitechnologyclub.com/gamifymobiletank-augmented-reality
  * Read Fourth Demonstration here - https://www.delhitechnologyclub.com/tank-auto-game
 
-### List the hardware and software you i used to build this.
+#### List the hardware and software you i used to build this.
 * Unity3d
 * A program as an interface between motor drivers(using Python) and game(using C#).
 * Jumper Wires
@@ -19,7 +19,10 @@ Robots are the future. Before letting a robot control human, let us see how we c
 * Devastator Tank Mobile Robot Platform
 * Batteries, Power bank, Micro SD card
 * A Gaming laptop.
-* Apple iPhone 7
+* Apple iPhone 7(ARKit)
+
+### Gamify The ......
+> Coming soon..
 
 ## Support
 Reach out to me at one of the following places!
